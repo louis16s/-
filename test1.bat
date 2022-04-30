@@ -10,7 +10,7 @@ chcp 65001
 :: 用 vscode 写的，默认编码是 utf-8
 cd %userprofile%/desktop
 echo cd /d %~dp0
- ll_env\Scripts\activate
-pyinstaller -F school.py -i g100.ico
+python school.py
 dir
 pause
+
