@@ -7,7 +7,7 @@ firstly , input what the program require
 ### 
 ## to turn on wifi share you need to allow [powershell](https://docs.microsoft.com/zh-cn/powershell/module/microsoft.powershell.core/about/about_signing?view=powershell-7.2)
 ---------------------
-运行你在本地计算机上编写的脚本，请使用 "以管理员身份运行" 选项启动 PowerShell，然后使用以下命令将计算机上的执行策略更改为 RemoteSigned：
+为了运行本地计算机上的脚本，请使用 "以管理员身份运行" 选项启动 PowerShell，然后使用以下命令将计算机上的执行策略更改为 RemoteSigned：
 ```
 Set-ExecutionPolicy RemoteSigned
 ```
