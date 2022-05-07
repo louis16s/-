@@ -2,8 +2,8 @@
 ======================
 ### login your account easily
 
-first ,input what the program require
-![ACQ9g.jpg](https://s1.328888.xyz/2022/04/30/ACQ9g.jpg)
+firstly , input what the program require
+![44Si3.jpg](https://s1.328888.xyz/2022/05/07/44Si3.jpg)
 ### 
 ## to turn on wifi share you need to allow powershell
 ---------------------
@@ -14,7 +14,7 @@ Set-ExecutionPolicy RemoteSigned
 
 * if u haven't install chrome,please install one or choose chromium
 
-* headless for who don't what to launch browser
+* headless for who don't what to launch browser ,but chrome will still work in background
 
 * windows ,mac os ,linux are working well with this simple program
 
