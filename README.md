@@ -1,6 +1,6 @@
 中山市实验中学-校园网登录
 ##  i have graduated !!!
-======================
+
 ### login easily
 lastest version is 6.3
 
